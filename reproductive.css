@@ -1,0 +1,26 @@
+p
+{
+	text-align : justify;
+	font-size: 13pt;
+	line-height: 14pt;
+	font-family: cursive;
+	color: black
+}
+
+body
+{
+	font-family: monospace, "century gothic", cursive;
+	color: black;
+	background-image: url("gendersigns.jpeg");
+}
+
+h2
+{
+	font-size: 20pt;
+	color: black;
+}
+
+#heading_one
+{
+	color: black;
+}

@@ -1,0 +1,58 @@
+p
+{
+	text-align : justify;
+	font-size: 13.5pt;
+	line-height: 15pt;
+	font-family: Calibry
+}
+
+body
+{
+	font-family: monospace, "century gothic", cursive;
+	color: maroon;
+	background-color: #FAFAFA
+}
+
+h2
+{
+	font-size: 20pt;
+	text-align:center; 
+}
+
+h1, h3
+{
+	color: black;
+        text-align: center;
+}
+/* Every other heading is a different color */
+img
+{
+	border-color : black; 
+	border-width : medium;
+	border-style : solid;
+	margin: auto;
+}
+
+h1
+{
+	font-size: 28pt;
+	text-decoration: underline;
+}
+
+img.center 
+{
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.centered-table 
+{
+   	margin-left: auto;
+   	margin-right: auto;
+}
+
+table
+{
+	border: 4px;
+}
